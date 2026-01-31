@@ -1,4 +1,4 @@
-# Lab 01: Enterprise Infrastructure Audit
+# Lab 01: GitHub Portfolio
 **Date:** January 30, 2026  
 **Status:** Completed  
 
